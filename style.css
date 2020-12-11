@@ -1,0 +1,47 @@
+h1{
+    font-family: sans-serif;
+    text-align: right;
+}
+.sans{
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+body{
+    background-color: lightsteelblue;
+}
+
+h2{
+    font-family: monospace;
+    font-variant: small-caps;
+}
+
+p{
+    line-height: 200%;
+    text-indent: 3em;
+    font-size: 0.40cm;
+}
+
+.marron{
+    color: brown;
+    font-weight:bolder;
+}
+.naranja{
+    color: darkorange;
+}
+
+.verde{
+    color: darkgreen;
+    background-color: lightyellow;
+    font-style: oblique;
+    font-family: sans-serif;
+    line-height: 200%;
+    text-indent: 3em;
+    font-size: 0.24cm;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.21cm;
+    font-style: oblique;
+    font-family: sans-serif;
+}
